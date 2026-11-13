@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 200" role="img" aria-labelledby="title">
+  <title id="title">Sample juice illustration 09</title>
+  <path d="M57 48h66l-8 126H65z" fill="#F6F9F4" stroke="#0F3D1E" stroke-width="5"/>
+  <path d="m62 91 5 79h42l6-79z" fill="#3FA535"/>
+  <path d="M75 48 109 15" fill="none" stroke="#0F3D1E" stroke-width="6"/>
+  <circle cx="126" cy="52" r="12" fill="#F6F9F4" stroke="#0F3D1E" stroke-width="4"/>
+  <circle cx="148" cy="56" r="10" fill="#F6F9F4" stroke="#0F3D1E" stroke-width="4"/>
+  <path d="M133 36c1-10 10-14 17-11-3 8-9 11-17 11z" fill="#3FA535" stroke="#0F3D1E" stroke-width="3"/>
+</svg>
